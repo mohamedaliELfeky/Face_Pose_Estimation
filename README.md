@@ -53,8 +53,9 @@ We welcome contributions from anyone who wants to improve this project. To contr
 We will review your changes and merge them into the main branch if they meet our quality standards.
 
 # Authors
-@[Mohamed Elfeky](https://github.com/mohamedaliELfeky)
-@[Mohamed Badr](https://github.com/Mohamed-b2dr)
+[Mohamed Elfeky](https://github.com/mohamedaliELfeky) <br/>
+
+[Mohamed Badr](https://github.com/Mohamed-b2dr)
 
 
 # License
