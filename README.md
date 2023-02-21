@@ -5,8 +5,8 @@ This project is an implementation of Face Pose Estimation, which uses machine le
 
 
 # Prerequisites
--- Python 3.7 or higher
--- MediaPipe
--- NumPy
--- OpenCV
--- scikit-learn
+- Python 3.7 or higher
+- MediaPipe
+- NumPy
+- OpenCV
+- scikit-learn
