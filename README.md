@@ -6,8 +6,7 @@ This project is an implementation of Face Pose Estimation, which uses machine le
 
 
 
-https://user-images.githubusercontent.com/48560237/220407154-78850243-8e20-435c-83d9-504a9ed0cc0a.mp4
-
+https://user-images.githubusercontent.com/48560237/220407356-5d379463-9b5c-450a-ba85-3f78b98d9396.mp4
 
 
 
