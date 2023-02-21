@@ -3,7 +3,8 @@
 This project is an implementation of Face Pose Estimation, which uses machine learning algorithms and MediaPipe to extract x and y feature points to estimate the pose of a person's face. The project is designed to track the orientation of a person's head and face in real-time and can be used for face recognition, augmented reality, and gaming.
 
 # example
-[![Alt text](https://drive.google.com/file/d/1Yx1JrEoj6saBUMZC4P3z9r58kTTU-DMu/view?usp=sharing)
+
+![Alt text](https://drive.google.com/file/d/1Yx1JrEoj6saBUMZC4P3z9r58kTTU-DMu/view?usp=sharing)
 
 
 
