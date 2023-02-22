@@ -53,9 +53,9 @@ python face_pose_estimation.py
 # Contributing
 We welcome contributions from anyone who wants to improve this project. To contribute, follow these steps:
 
-1- Fork this repository.
-2- Create a new branch with your changes.
-3- Submit a pull request.
+  1- Fork this repository.<br/>
+  2- Create a new branch with your changes.<br/>
+  3- Submit a pull request.<br/>
 
 We will review your changes and merge them into the main branch if they meet our quality standards.
 
