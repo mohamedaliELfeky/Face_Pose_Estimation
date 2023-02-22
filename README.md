@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/48560237/220407356-5d379463-9b5c-450a-
 1- Clone this repository to your local machine:
 ```bash
 
-git clone https://github.com/mohamedaliELfeky/Face-Pose-Estimation.git
+git clone https://github.com/mohamedaliELfeky/Face_Pose_Estimation.git
 
 ```
 2- Install the required dependencies:
