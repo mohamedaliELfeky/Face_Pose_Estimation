@@ -66,5 +66,5 @@ We will review your changes and merge them into the main branch if they meet our
 
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0.
 
